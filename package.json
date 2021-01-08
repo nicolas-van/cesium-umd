@@ -1,6 +1,6 @@
 {
   "name": "cesium-umd",
-  "version": "0.0.1",
+  "version": "1.77.0",
   "description": "",
   "main": "dist/cesium-umd.umd.js",
   "jsdelivr": "dist/cesium-umd.umd.js",
