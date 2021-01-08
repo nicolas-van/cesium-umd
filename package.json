@@ -1,0 +1,30 @@
+{
+  "name": "cesium-umd",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/cesium-umd.umd.js",
+  "jsdelivr": "dist/cesium-umd.umd.js",
+  "unpkg": "dist/cesium-umd.umd.js",
+  "keywords": [
+    "cesium"
+  ],
+  "files": [
+    "dist/*",
+    "README.md",
+    "LICENSE.md"
+  ],
+  "scripts": {
+    "build": "rollup -c rollup.config.js",
+    "test": "echo \"Error: no test specified\""
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "cesium": "^1.77.0",
+    "rollup": "^2.36.1"
+  },
+  "dependencies": {
+    "@rollup/plugin-commonjs": "^17.0.0",
+    "@rollup/plugin-node-resolve": "^11.0.1"
+  }
+}
