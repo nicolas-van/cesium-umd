@@ -1,6 +1,6 @@
 # cesium-umd
 
-[![npm](https://img.shields.io/npm/v/cesium-umd)](https://www.npmjs.com/package/cesium-umd)
+[![npm](https://img.shields.io/npm/v/cesium-umd)](https://www.npmjs.com/package/cesium-umd) [![](https://data.jsdelivr.com/v1/package/npm/cesium-umd/badge)](https://www.jsdelivr.com/package/npm/cesium-umd)
 
 A repackaging of [Cesium](https://www.npmjs.com/package/cesium) as an UMD package. It was developed in order to be able to import Cesium in [Observable](https://observablehq.com/).
 
