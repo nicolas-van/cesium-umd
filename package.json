@@ -29,9 +29,7 @@
   },
   "devDependencies": {
     "cesium": "^1.77.0",
-    "rollup": "^2.36.1"
-  },
-  "dependencies": {
+    "rollup": "^2.36.1",
     "@rollup/plugin-commonjs": "^17.0.0",
     "@rollup/plugin-node-resolve": "^11.0.1"
   }
