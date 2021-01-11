@@ -1,10 +1,20 @@
 {
   "name": "cesium-umd",
-  "version": "1.77.0",
+  "version": "1.77.1",
   "description": "",
   "main": "dist/cesium-umd.umd.js",
   "jsdelivr": "dist/cesium-umd.umd.js",
   "unpkg": "dist/cesium-umd.umd.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolas-van/cesium-umd.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicolas-van/cesium-umd/issues"
+  },
+  "homepage": "https://nicolas-van.github.io/cesium-umd",
   "keywords": [
     "cesium"
   ],
@@ -17,8 +27,6 @@
     "build": "rollup -c rollup.config.js",
     "test": "echo \"Error: no test specified\""
   },
-  "author": "",
-  "license": "MIT",
   "devDependencies": {
     "cesium": "^1.77.0",
     "rollup": "^2.36.1"

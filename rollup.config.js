@@ -7,7 +7,7 @@ export default [{
   output: {
     file: 'dist/cesium-umd.umd.js',
     format: 'umd',
-    name: 'cesium'
+    name: 'Cesium'
   },
   plugins: [
     nodeResolve(),
